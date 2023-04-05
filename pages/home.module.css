@@ -1,0 +1,17 @@
+.details {
+    text-align: center;
+}
+
+.details img {
+    width: 100%;
+}
+
+.details h1,
+.details p{
+  background-color: #b61b56;
+  color: white;
+  padding: 15px;
+  border-radius: 4px;
+  box-shadow: 2px 2px 20px 20px #b6255d;
+  margin: 10%;
+}
